@@ -1,1 +1,0 @@
-Apartado E. docker run -d --name www -p 8080:80 -v C:\Users\pamaes02\Desktop\exam\:/usr/share/nginx/html/ nginx
